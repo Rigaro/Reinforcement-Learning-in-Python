@@ -1,2 +1,2 @@
 # Reinforcement-Learning-with-Python
-Reinforcement Learning with Python. The code a write while learning RL with Python.
+Reinforcement Learning in Python. The Python code I write while learning RL.
